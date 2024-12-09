@@ -2,7 +2,7 @@
 
 ## Second level heading 
 
-### Third Level Heaading
+### Third Level Heading
 
 Normal, **bold**, *italic*, `highlighted Text`
 
