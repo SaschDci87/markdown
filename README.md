@@ -18,8 +18,7 @@ Ein Blockzitat (block quote):
 
 Ein Link: [Hacker News] https://github.com/tpope/vim-fugitive/blob/master/README.markdown
 
-Bild
-
+![Santa Clause](https://cdn.pixabay.com/photo/2017/01/30/14/52/father-christmas-2021006_1280.png)
 Code Block:
 
 ```bash
